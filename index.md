@@ -17,7 +17,7 @@ layout: default
 
 * * *
 
-## Research Experience
+## Research experience
 
 _2012--present_<br>
 **Program in Neuroscience**, Harvard University, MA, USA<br>
