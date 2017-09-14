@@ -47,6 +47,8 @@ _Research project:_ Chronic imaging of cortical sensory map dynamics.
 
 <a href="https://scholar.google.com/citations?user=57BFBY0AAAAJ" target="_blank">Google Scholar</a>
 
+Driscoll LN, Pettit NL, **Minderer M**, Chettih SN, and Harvey CD (2017). Dynamic Reorganization of Neuronal Activity Patterns in Parietal Cortex. Cell (2017).
+
 **Minderer M**, Harvey CD, Donato F & Moser EI (2016). Neuroscience: Virtual reality explored. Nature (2016).
 
 **Minderer M**, Liu W, Sumanovski LT, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory map dynamics using a genetically encoded calcium indicator. J Phys (2011).
@@ -58,6 +60,7 @@ Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman M
 * * *
 
 ## Fellowships & Awards
+*   **NVIDIA Hardware Grant (2016)<br>
 *   **Boehringer Ingelheim Fonds PhD Fellowship** (2014--2016)<br>
 *   **Herchel Smith Graduate Fellowship**, Harvard University (2012--2013)<br>
 *   **Homerton College Foundation Scholarship**, University of Cambridge (2009)
