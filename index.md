@@ -60,7 +60,7 @@ Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman M
 * * *
 
 ## Fellowships & Awards
-*   **NVIDIA Hardware Grant (2016)<br>
+*   **NVIDIA Hardware Grant** (2016)<br>
 *   **Boehringer Ingelheim Fonds PhD Fellowship** (2014--2016)<br>
 *   **Herchel Smith Graduate Fellowship**, Harvard University (2012--2013)<br>
 *   **Homerton College Foundation Scholarship**, University of Cambridge (2009)
@@ -77,6 +77,7 @@ Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman M
 
 ## Selected coursework
 
+* 	CIFAR Reinforcement Learning Summer School<br>(MILA Montreal, 2017)
 *   Algorithms: Design and Analysis, Part 1<br>(online: Stanford via Coursera, 2016)
 *   Convolutional Neural Networks for Visual Recognition<br>(online: Stanford, 2016)
 *   Harvard CS281: Advanced Machine Learning<br>(Prof. Finale Doshi-Velez, 2015)
