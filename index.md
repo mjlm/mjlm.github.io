@@ -43,6 +43,16 @@ _Research project:_ Chronic imaging of cortical sensory map dynamics.
 
 * * *
 
+## Technical experience
+*	Developing models of experimental data using CNNs, VAEs, large linear models (Python + TensorFlow, Matlab)
+* 	Designing terabyte-scale image processing pipelines
+*	Relational databases (MySQL)
+*	Distributed high-performance computing (LSF-managed cluster at Harvard Medical School)
+*	Developing real-time 3D virtual reality systems for behavioral experiments (OpenGL, microcontrollers, custom circuits)
+*	Designing and building microscopes and other optical systems
+
+* * *
+
 ## Publications
 
 <a href="https://scholar.google.com/citations?user=57BFBY0AAAAJ" target="_blank">Google Scholar</a>
