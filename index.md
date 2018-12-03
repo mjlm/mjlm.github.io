@@ -1,4 +1,4 @@
----
+_---
 layout: default
 ---
 
@@ -19,7 +19,14 @@ layout: default
 
 ## Research experience
 
-_2012--present_<br>
+_2018--present_<br>
+**Google AI Residency**, Google Brain Cambridge, MA, USA<br>
+Project topics:
+* Unsupervised representations for video prediction
+* Model-based reinforecement learning
+* Semantic segmentation of medical images
+
+_2012--2018_<br>
 **Program in Neuroscience**, Harvard University, MA, USA<br>
 Thesis advisor: Dr. Christopher Harvey<br>
 <a href="http://harveylab.hms.harvard.edu/" target="_blank">harveylab.hms.harvard.edu</a>
