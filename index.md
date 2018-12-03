@@ -21,7 +21,6 @@ layout: default
 
 _2018--present_<br>
 **Google AI Residency**, Google Brain Cambridge, MA, USA<br>
-Project topics:
 * Unsupervised representations for video prediction
 * Model-based reinforecement learning
 * Semantic segmentation of medical images
