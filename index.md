@@ -11,7 +11,7 @@ layout: default
 * * *
 
 ## Education
-*   **PhD in Neuroscience**, Harvard University (2012--present)<br>
+*   **PhD in Neuroscience**, Harvard University (2012--2018)<br>
 *   **MSc in Neuroscience**, ETH Zürich (2010--2012)<br>
 *   **BA in Natural Sciences**, University of Cambridge (2007--2010)<br>
 
