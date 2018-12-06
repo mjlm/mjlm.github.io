@@ -4,9 +4,8 @@ layout: default
 
 ## Research interests
 
-*   Representation of information in neural systems
-*   Relating neuroscience and artificial intelligence to discover general principles of computation
-*   Developing tools to process and analyze large-scale neuroscience data
+*   Unsupervised approaches to vision-related problems ranging from medical imaging to reinforcement learning
+*   Using neuroscience-inspired methods to understand artificial neural networks
 
 * * *
 
@@ -30,11 +29,11 @@ _2012--2018_<br>
 Thesis advisor: Dr. Christopher Harvey<br>
 <a href="http://harveylab.hms.harvard.edu/" target="_blank">harveylab.hms.harvard.edu</a>
 
-_Primary thesis project:_ I am interested in how the hierarchy of regions in mammalian cortex transforms and combines sensory inputs to extract action-relevant information. I use <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compare the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
+_Primary thesis project:_ I studied how the mammalian cortex transforms and combines sensory inputs to extract action-relevant information. I used <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compared the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
 
-_Neural encoding models:_ Using deep learning methods, I develop models that relate animal behavior to simultaneously recorded neural activity.
+_Neural encoding models:_ Using deep learning methods, I developed models that relate animal behavior to simultaneously recorded neural activity.
 
-_Software tools for neuroscience research:_ I develop software to collect, analyze and present neuroscience data. For my thesis project, I developed 3D virtual environments for mice and tools to coordinate two-photon microscopy and simultaneous optogenetic stimulation. Together with Selmaan Chettih, I developed a <a href="https://github.com/HarveyLab/Acquisition2P_class" target="_blank">tool</a> to identify neurons and their time-varying activity in imaging data. I also created our <a href="http://harveylab.hms.harvard.edu/" target="_blank">lab website</a>.
+_Software tools for neuroscience research:_ I developed software to collect, analyze and present neuroscience data. For my thesis project, I developed 3D virtual environments for mice and tools to coordinate two-photon microscopy and simultaneous optogenetic stimulation. Together with Selmaan Chettih, I developed a <a href="https://github.com/HarveyLab/Acquisition2P_class" target="_blank">tool</a> to identify neurons and their time-varying activity in imaging data. I also created our <a href="http://harveylab.hms.harvard.edu/" target="_blank">lab website</a>.
 
 _2012_<br>
 **Institute of Neuroinformatics**, ETH Zürich, Switzerland<br>
