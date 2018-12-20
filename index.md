@@ -21,7 +21,7 @@ layout: default
 _2018--present_<br>
 **Google AI Residency**, Google Brain Cambridge, MA, USA<br>
 * Unsupervised representations for video prediction
-* Model-based reinforecement learning
+* Model-based reinforcement learning
 * Semantic segmentation of medical images
 
 _2012--2018_<br>
