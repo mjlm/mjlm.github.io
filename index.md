@@ -72,7 +72,7 @@ Driscoll LN, Pettit NL, **Minderer M**, Chettih SN & Harvey CD. Dynamic Reorgani
 
 **Minderer M**, Liu W, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory maps using a genetically encoded calcium indicator. 2011 Neuroscience Meeting Abstracts. Washington, DC: Society for Neuroscience (2011). <a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=03bb8ea7-7ca8-419f-9cbf-cde88764af11&cKey=b31a1ad7-99a1-45d6-a5d1-a40c6f8b26a0&mKey=%7b8334BE29-8911-4991-8C31-32B32DD5E6C8%7d" target="_blank">Online.</a>
 
-Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman ME, **Minderer M**, Zheng W, et al. The nuclear transport receptor Importin-11 is a tumor suppressor that maintains PTEN protein. J Cell Biol (2017). <a href="https" target="_blank">https://drive.google.com/open?id=1nBo3iOcd7SaKvWXXFr6c94tS7zcvyJJ_</a> _(My contribution was made during the CSHL Undergraduate Research Program in 2010.)_
+Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman ME, **Minderer M**, Zheng W, et al. The nuclear transport receptor Importin-11 is a tumor suppressor that maintains PTEN protein. J Cell Biol (2017). <a href="https://drive.google.com/open?id=1nBo3iOcd7SaKvWXXFr6c94tS7zcvyJJ_" target="_blank">PDF</a> _(My contribution was made during the CSHL Undergraduate Research Program in 2010.)_
 
 * * *
 
