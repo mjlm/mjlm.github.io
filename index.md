@@ -62,15 +62,17 @@ _Research project:_ Chronic imaging of cortical sensory map dynamics.
 
 <a href="https://scholar.google.com/citations?user=57BFBY0AAAAJ" target="_blank">Google Scholar</a>
 
-Driscoll LN, Pettit NL, **Minderer M**, Chettih SN, and Harvey CD. Dynamic Reorganization of Neuronal Activity Patterns in Parietal Cortex. Cell (2017).
+**Minderer M**, Brown KD & Harvey CD. The Spatial Structure of Neural Encoding in Mouse Posterior Cortex during Navigation. Neuron (2019). <a href="https://drive.google.com/open?id=1zZKxbS97ZLbxKmPzxpVJtaZn6CLFPDJi" target="_blank">PDF</a>
 
-**Minderer M**, Harvey CD, Donato F & Moser EI. Neuroscience: Virtual reality explored. Nature (2016).
+Driscoll LN, Pettit NL, **Minderer M**, Chettih SN & Harvey CD. Dynamic Reorganization of Neuronal Activity Patterns in Parietal Cortex. Cell (2017). <a href="https://drive.google.com/open?id=1WOR_FqeXvoSlaod6iNomqTKGra3KRF99" target="_blank">PDF</a>
 
-**Minderer M**, Liu W, Sumanovski LT, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory map dynamics using a genetically encoded calcium indicator. J Phys (2011).
+**Minderer M**, Harvey CD, Donato F & Moser EI. Neuroscience: Virtual reality explored. Nature (2016). <a href="https://drive.google.com/open?id=12LL2ccZV7NHJ1txZD8se55545aGsQZYB" target="_blank">PDF</a>
 
-**Minderer M**, Liu W, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory maps using a genetically encoded calcium indicator. 2011 Neuroscience Meeting Abstracts. Washington, DC: Society for Neuroscience (2011). Online.
+**Minderer M**, Liu W, Sumanovski LT, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory map dynamics using a genetically encoded calcium indicator. J Phys (2011). <a href="https://drive.google.com/open?id=1dQ4yEUyC9vzgE4cHELTXPzKPHeSyWAyc" target="_blank">PDF</a>
 
-Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman ME, **Minderer M**, Zheng W, et al. The nuclear transport receptor Importin-11 is a tumor suppressor that maintains PTEN protein. J Cell Biol (2017). _(My contribution was made during the CSHL Undergraduate Research Program in 2010.)_
+**Minderer M**, Liu W, Kügler S, Helmchen F & Margolis DJ. Chronic imaging of cortical sensory maps using a genetically encoded calcium indicator. 2011 Neuroscience Meeting Abstracts. Washington, DC: Society for Neuroscience (2011). <a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=03bb8ea7-7ca8-419f-9cbf-cde88764af11&cKey=b31a1ad7-99a1-45d6-a5d1-a40c6f8b26a0&mKey=%7b8334BE29-8911-4991-8C31-32B32DD5E6C8%7d" target="_blank">Online.</a>
+
+Chen M, Nowak DG, Narula N, Robinson B, Watrud K, Ambrico A, Herzka TM, Zeeman ME, **Minderer M**, Zheng W, et al. The nuclear transport receptor Importin-11 is a tumor suppressor that maintains PTEN protein. J Cell Biol (2017). <a href="https" target="_blank">https://drive.google.com/open?id=1nBo3iOcd7SaKvWXXFr6c94tS7zcvyJJ_</a> _(My contribution was made during the CSHL Undergraduate Research Program in 2010.)_
 
 * * *
 
