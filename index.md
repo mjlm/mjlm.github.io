@@ -20,6 +20,7 @@ layout: default
 
 _2018--present_<br>
 **Google AI Residency**, Google Brain Cambridge, MA, USA<br>
+The <a href="https://ai.google/research/join-us/ai-residency/" target="_blank">AI Residency</a> is a research training role similar to a postdoc.
 * Unsupervised representations for video prediction
 * Model-based reinforcement learning
 * Semantic segmentation of medical images
