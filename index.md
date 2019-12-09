@@ -22,7 +22,7 @@ _2018--present_<br>
 **Google AI Residency**, Google Brain Cambridge, MA, USA<br>
 The <a href="https://ai.google/research/join-us/ai-residency/" target="_blank">AI Residency</a> is a research training role similar to a postdoc. Project topics:
 * Unsupervised representations for video prediction
-* Model-based reinforcement learning
+* Representation learning for visual tasks
 * Semantic segmentation of medical images
 
 _2012--2018_<br>
@@ -30,7 +30,7 @@ _2012--2018_<br>
 Thesis advisor: Dr. Christopher Harvey<br>
 <a href="http://harveylab.hms.harvard.edu/" target="_blank">harveylab.hms.harvard.edu</a>
 
-_Primary thesis project:_ I studied how the mammalian cortex transforms and combines sensory i9932936nputs to extract action-relevant information. I used <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compared the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
+_Primary thesis project:_ I studied how the mammalian cortex transforms and combines sensory inputs to extract action-relevant information. I used <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compared the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
 
 _Neural encoding models:_ Using deep learning methods, I developed models that relate animal behavior to simultaneously recorded neural activity.
 
