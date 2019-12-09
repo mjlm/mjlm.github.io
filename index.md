@@ -30,7 +30,7 @@ _2012--2018_<br>
 Thesis advisor: Dr. Christopher Harvey<br>
 <a href="http://harveylab.hms.harvard.edu/" target="_blank">harveylab.hms.harvard.edu</a>
 
-_Primary thesis project:_ I studied how the mammalian cortex transforms and combines sensory inputs to extract action-relevant information. I used <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compared the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
+_Primary thesis project:_ I studied how the mammalian cortex transforms and combines sensory i9932936nputs to extract action-relevant information. I used <a href="http://harveylab.hms.harvard.edu/pdf/minderer2016.pdf" target="_blank">virtual navigation tasks for mice</a> designed to engage cognitive processes. I then compared the information present in the activity of large populations of neurons recorded across several cortical regions during the task.
 
 _Neural encoding models:_ Using deep learning methods, I developed models that relate animal behavior to simultaneously recorded neural activity.
 
@@ -62,6 +62,8 @@ _Research project:_ Chronic imaging of cortical sensory map dynamics.
 ## Publications
 
 <a href="https://scholar.google.com/citations?user=57BFBY0AAAAJ" target="_blank">Google Scholar</a>
+
+**Minderer M**, Sun C, Villegas R, Cole F, Murphy KP & Lee H. Unsupervised Learning of Object Structure and Dynamics from Videos. In Advances in Neural Information Processing Systems 32 (2019) <a href="https://arxiv.org/abs/1906.07889" target="_blank">arXiv</a>
 
 **Minderer M**, Brown KD & Harvey CD. The Spatial Structure of Neural Encoding in Mouse Posterior Cortex during Navigation. Neuron (2019). <a href="https://drive.google.com/open?id=1zZKxbS97ZLbxKmPzxpVJtaZn6CLFPDJi" target="_blank">PDF</a>
 
